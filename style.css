@@ -10,7 +10,7 @@
 }
 
 :root{
-    --cor0: #c5ebd6;
+    --cor0: #abebc7;
     --cor1: #83e1ad;
     --cor2: #3ddc84;
     --cor3: #2fa866;
@@ -159,13 +159,13 @@ aside > ul{
 footer{
     background-color: black;
     color: white;
-    padding: 8px;
+    padding: 10px;
     font-size: 16px;
     text-align: center;
 }
 footer > p > a{
     color: white;
     background-color: gray;
-    padding: 5px;
+    padding: 2px;
     border-radius: 5px;
 }
